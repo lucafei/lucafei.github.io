@@ -1,0 +1,19 @@
+site_name: FEI YIN
+
+nav:
+  - Home: 
+    - Biograhy: index.md
+    - Contact: contact.md
+  - Project: project.md
+  - Publications: project.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - header.autohide
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lucafei
