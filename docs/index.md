@@ -1,6 +1,6 @@
 # Fei Yin
 
-![](./Fei Yin.png)
+![](./FeiYin.png)
 
 ## Education
 
