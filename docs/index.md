@@ -1,19 +1,16 @@
 # Fei Yin
 
-![](./FeiYin.png)
+![personal picture](./images/FeiYin.jpg)
 
 ## Education
 
-* 2021
-Study work with development of a medication delivery process in the customised
-medication )2.0 in germany grading system: )keywordsH ROS, Path Planning,
-Socket communication:
-(aster thesis with Investigating the effectiveness of synthetic data for jision-based autonomous landing systems )1.3 in germany grading system: )keywordsH sim2real, semantic segmentation, Tying simulator, domain randomization,
-domain adaptation, image enhancement:
+* 2021, Master of Science, Mechanical Engineering, TU Braunschweig<br>
+    Study work with development of a medication delivery process in the customised medication (2.0 in germany grading system) (keywords: ROS, Path Planning, Socket communication) <br>
+    Master thesis with Investigating the effectiveness of synthetic data for jision-based autonomous landing systems )1.3 in germany grading system) (keywords: sim2real, semantic segmentation, Tying simulator, domain randomization, domain adaptation, image enhancement)
 
-* 2015
-
-* 2016
+* 2018, Bachelor of Engineering, Mechanical Engineering, Ostfalia University of Applied Science<br>
+    Two study works with construction of a VHF-GPS based mobile collision warning system (1.0 in germany grading system) (keywords: UART, Microcontroller, C language) & realisation of an IoT application for the Industry 4.0 and replacing a Siemens CPA for OPC UA (1.0 in germany grading system) (keywords: IoT Cloud, IoT Gateway, MQTT, HTTP, HTML, CSS, Javascript) <br>
+    Bachelor thesis with development of an app to control the mini-factory (1.7 in germany grading system) (keywords: Android Application , Mit App Inventor, HTTP)
 
 ## Research
 
