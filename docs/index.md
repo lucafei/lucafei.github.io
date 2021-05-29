@@ -20,7 +20,7 @@
 * 04/2020 - 06/2020, Student Assistant, Institute of automotive engineering at Technical University Braunschweig
     Realisation of a communication modul between ROS and Android application in project 'SynCoPark' with socket
 
-* 07/2017 - 11/2017, Control engineering laboratory at Ostfalia University of Applied Sciences
+* 07/2017 - 11/2017, Internship in Control engineering laboratory at Ostfalia University of Applied Sciences
     Supervision of the mini-factory in the Control Engineering Laboratory
 
 ## Skills
